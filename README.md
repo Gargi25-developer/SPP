@@ -27,8 +27,4 @@ Stock prediction app using Streamlit and Facebook prophet
 ![Annotation 2022-01-21 223835](https://user-images.githubusercontent.com/68156453/153027911-0354583a-78b9-4ca7-8e42-407cf7327fd8.jpg)
 ![Annotation 2022-01-21 223856](https://user-images.githubusercontent.com/68156453/153027986-ca4d2637-7608-4d77-a665-f1af53a12327.jpg)
 
-Tech Stack Used- Streamlit, Numpy,tensorflow,pandas,keras etc.
-<h3> App link: https://stock-predict-app.herokuapp.com/ </h3>
-
-<h3> FB Prophet Docs: https://facebook.github.io/prophet/docs/quick_start.html </h3>
             
